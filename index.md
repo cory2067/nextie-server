@@ -12,7 +12,7 @@ All services running on the nextie.us server are packaged as [Docker containers]
 
 ### How do I get started?
 
-[Fill out this application.](http://sorry_not_ready)
+[Fill out this application.](https://goo.gl/forms/9Lkrk56HXFymIcNF2)
 
 You'll need to "dockerize" your app to make it run. This basically means adding a `Dockerfile`, which you can think of as a script that installs dependencies and launches your app. You can usually find nice Dockerfile guides/boilerplates online (e.g. google "dockerize flask app"). If you don't know what to do, you can contact me and we'll figure it out. If you need https support, I can generate certs. 
 
