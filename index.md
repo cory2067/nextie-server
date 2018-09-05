@@ -27,7 +27,7 @@ If your application sounds reasonable, you'll get a subdomain `xxx.nextie.us` an
 - `nextie logs`
   - View all output (`stdout` and `stderr`) in your container via `docker logs`
   
-Feel free to request additional functionality or report potential flaws.
+You should tell me any required Docker flags (like mounting volumes), and let me know if you want to use a custom URL. Feel free to request additional functionality or report potential flaws.
 
 ### Contact and support
 
