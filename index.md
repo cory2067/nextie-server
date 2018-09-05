@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# nextie.us
 
-You can use the [editor on GitHub](https://github.com/cory2067/nextie-server/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Have cool webapp ideas but not the resources to deploy them? As a resident of Next House, you can get free server space!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What this is for
 
-### Markdown
+As an MIT student, you already have access to your [Athena locker](http://kb.mit.edu/confluence/pages/viewpage.action?pageId=3907090) where you can keep static webpages. You also have access to [scripts.mit.edu](http://scripts.mit.edu), which lets you do a bit more than plain Athena, like Python/php CGI scripts. However, if you want to host something like a node app, Flask app, or anything not supported by scripts, you'd be out of luck. But now, you can use the Next House server for whatever you want!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cory2067/nextie-server/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+blah
