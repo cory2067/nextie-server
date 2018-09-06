@@ -31,6 +31,6 @@ You should tell me any required Docker flags (like mounting volumes), and let me
 
 ### Contact and support
 
-For any questions and comments, please contact **nextie-help (at) mit (dot) edu**.
+For any questions and comments, please contact **next-techchair (at) mit (dot) edu**.
 
 *- cor*
