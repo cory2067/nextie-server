@@ -18,7 +18,7 @@ You'll need to "dockerize" your app to make it run. This basically means adding 
 
 ### Once approved, how do I deploy?
 
-If your application sounds reasonable, you'll get a subdomain `xxx.nextie.us` and an ssh login `xxx@nextie.us`. There will be a directory `~/src` where you should clone your repo into. Users won't have `sudo` permissions and can't view each others' code. The server provides the following commands to interface with docker:
+If your application sounds reasonable, you'll get a subdomain `xxx.nextie.us` and an ssh login `xxx@nextie.us`. There will be a directory `~/src` where you should clone your repo into. You will have permissions to execute the following commands with `sudo`:
 
 - `nextie publish`
   - Run `docker build` on the `~/src` directory and (re)starts the container.
